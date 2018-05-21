@@ -12,26 +12,9 @@
 
 
 <body>
-<style>
-.flex-container {
-  display: flex;
-  justify-content:space-between;
-  background-color: DodgerBlue;
-}
+<marquee><p> Curriculum Vitae </p></marquee>
 
-.flex-container > div {
-  background-color: blue;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
-</style>
-
- 
-
-  
+</style> 
 <ul  class = "container" <ul>
 <list >Home </list>
 <list >Search </list>
@@ -39,7 +22,8 @@
     <p><em>  TABLE </em></p>
     <p><em> CHAISE et TABOURETS  </em></p>
     <p><em> ARMOIRE </em></p>
-  </body>
+  
+ </body>
 
 </html>
 
