@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <title><strong>  CURRICULUM VITAE  </strong></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+ </head>
+
+
+<body>
+<marquee><p>  Curriculum Vitae </p></marquee>
+
+</style> 
+<ul  class = "container"> 
+<li >  FORMATION  </li>
+<li >  EXPERIENCE  </li>
+<li >  DIVERS      </li>
+    <p><em>  SPORT  </em></p>
+    <p><em> LECT   </em></p>
+    <p><em> Developpeur  </em></p><ul>
+  
+ </body>
+
+</html>
